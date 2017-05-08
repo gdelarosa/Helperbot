@@ -1,0 +1,46 @@
+{
+  "userSays": [
+    {
+      "id": "a0d0e16d-a8f9-48e0-ac5d-86d58671d0ff",
+      "data": [
+        {
+          "text": "Can you help me find resources to learn swift?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "d11fe7db-2d3e-4b13-9778-b4569a85c4f2",
+  "name": "Can you help me find resources to learn swift?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Canyouhelpmefindresourcestolearnswift-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Yes! Are you just starting to learn about Swift?"
+        },
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bc66f65c-6917-4709-982f-7e0916a08507",
+  "name": "Crust",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@crust crust",
+      "synonyms": [
+        "@crust",
+        "thin",
+        "thin crusted",
+        "thin crust",
+        "thick",
+        "thick crust",
+        "thick crusted"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

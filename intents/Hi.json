@@ -1,0 +1,41 @@
+{
+  "userSays": [
+    {
+      "id": "1d556e02-5cca-4c31-83cd-a201c91c3d7d",
+      "data": [
+        {
+          "text": "Hi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "f4b17ee8-cae9-4365-95c7-286ac9efc8ac",
+  "name": "Hi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Introduction",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": false,
+          "name": "EnterName"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Hello! What can I help you with?"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false
+}

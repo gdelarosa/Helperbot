@@ -1,0 +1,33 @@
+{
+  "id": "fe8bf31e-43f4-413e-b7eb-474c04f2a82e",
+  "name": "DeliveryLocation",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@Home",
+      "synonyms": [
+        "@Home"
+      ]
+    },
+    {
+      "value": "@Apartment",
+      "synonyms": [
+        "@Apartment"
+      ]
+    },
+    {
+      "value": "@Condo",
+      "synonyms": [
+        "@Condo"
+      ]
+    },
+    {
+      "value": "@College",
+      "synonyms": [
+        "@College"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
